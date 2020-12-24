@@ -1,0 +1,4 @@
+selenium
+docopt
+termcolor
+stdiomask
