@@ -6,7 +6,7 @@ This script can like posts related to a specific hashtag or unfollow your follow
 1. You do not need to log in to your Instagram account manually, just enter your username and password in the script to log in to your user account.
 2. If 2-step verification is enabled on your account, the script will not run properly.
 3. If you are using a proxy or VPN, the script may be compromised.
-4. -Make sure File [ myig.py ] and File [chromedriver.exe] are in the same direction.
+4. Make sure File [ myig.py ] and File [chromedriver.exe] are in the same direction.
 
 
 ## Usage
